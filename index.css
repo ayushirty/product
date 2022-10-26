@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.product{
+    padding: 50px;
+}
+.price{
+    padding: 5px;
+    color: grey;
+}
